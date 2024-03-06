@@ -1,2 +1,2 @@
 # Autonomous Path Finding
- Autonomous path findingusing object detection and Teaching and learning based optimization
+ Autonomous path-finding using object detection and Teaching & Learning based optimization
